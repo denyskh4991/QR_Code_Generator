@@ -54,6 +54,7 @@ The interactivity of the app is driven by JavaScript:
 <h4>- generateQR()</h4>
 This function is responsible for generating the QR code. It checks the input field for valid content, constructs a URL with the user's input, and sets it as the source of the QR code image. The function also handles the visual feedback for errors.
 
+
     function generateQR() {
        // Function implementation
     }
